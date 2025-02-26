@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Lionel Messi",
+        "height": 170,
+        "country": "Argentina",
+        "market_value": 50000000,
+        "all_time_goals": 800
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "height": 187,
+        "country": "Portugal",
+        "market_value": 45000000,
+        "all_time_goals": 850
+    },
+    {
+        "name": "Neymar Jr",
+        "height": 175,
+        "country": "Brazil",
+        "market_value": 70000000,
+        "all_time_goals": 400
+    },
+    {
+        "name": "Kylian Mbapp\u00e9",
+        "height": 178,
+        "country": "France",
+        "market_value": 180000000,
+        "all_time_goals": 250
+    },
+    {
+        "name": "Robert Lewandowski",
+        "height": 185,
+        "country": "Poland",
+        "market_value": 60000000,
+        "all_time_goals": 500
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "height": 181,
+        "country": "Belgium",
+        "market_value": 90000000,
+        "all_time_goals": 150
+    },
+    {
+        "name": "Mohamed Salah",
+        "height": 175,
+        "country": "Egypt",
+        "market_value": 100000000,
+        "all_time_goals": 200
+    },
+    {
+        "name": "Virgil van Dijk",
+        "height": 193,
+        "country": "Netherlands",
+        "market_value": 70000000,
+        "all_time_goals": 50
+    },
+    {
+        "name": "Sadio Man\u00e9",
+        "height": 175,
+        "country": "Senegal",
+        "market_value": 80000000,
+        "all_time_goals": 150
+    },
+    {
+        "name": "Harry Kane",
+        "height": 188,
+        "country": "England",
+        "market_value": 120000000,
+        "all_time_goals": 250
+    }
+]
